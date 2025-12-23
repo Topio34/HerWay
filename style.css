@@ -334,16 +334,10 @@ header {
   margin: auto;  /* centre l’image */
 }
 
-@media (max-width: 480px){
-  .comment-class{
-    max-width: 100%;
-  }
-
-
- .how-section {
+.how-section {
     margin-top: 60px;
 }
-    
+
 .how-section h2 {
     text-align: center;
 }
@@ -846,8 +840,3 @@ footer {
   color: #666;
   font-size: 0.95rem;
 }
-
-
-
-
-
