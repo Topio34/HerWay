@@ -339,10 +339,10 @@ header {
     max-width: 100%;
   }
 
-
 .how-section {
-    margin-top: 60px;
+  overflow-x: hidden;
 }
+
 
 .how-section h2 {
     text-align: center;
@@ -846,4 +846,5 @@ footer {
   color: #666;
   font-size: 0.95rem;
 }
+
 
