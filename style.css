@@ -339,9 +339,6 @@ header {
     max-width: 100%;
   }
 
-.how-section {
-  overflow-x: hidden;
-}
 
  .how-section {
     margin-top: 60px;
@@ -849,6 +846,7 @@ footer {
   color: #666;
   font-size: 0.95rem;
 }
+
 
 
 
