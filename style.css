@@ -326,12 +326,12 @@ header {
 
 /* COMMENT ÇA MARCHE */
 
-.comment-class{
-  width: 100%;
-  max-width: 700px;   /* garde ton rendu desktop */
+.comment-class {
+  width: 120%;
+  max-width: 700px;   /* augmente ici : 600 → 700 → 800 si besoin */
   height: auto;
   display: block;
-  margin: 0 auto;
+  margin: auto;  /* centre l’image */
 }
 
 @media (max-width: 480px){
@@ -846,6 +846,7 @@ footer {
   color: #666;
   font-size: 0.95rem;
 }
+
 
 
 
