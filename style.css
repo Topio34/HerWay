@@ -137,7 +137,7 @@ header {
 
 .phone-mockup2 {
     width: 280px;
-    border-radius: 50px;
+    border-radius: 60px;
     box-shadow: 0 10px 40px rgba(171, 75, 87, 0.15);
 }
 /* SECTION STATISTIQUES */
@@ -849,5 +849,6 @@ footer {
   color: #666;
   font-size: 0.95rem;
 }
+
 
 
