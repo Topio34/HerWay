@@ -438,15 +438,16 @@ header {
     line-height: 1.8;
     margin-bottom: 20px;
 }
-.link {
+.social {
   color: #C94C6A;
   text-decoration: none;
   font-weight: 500;
 }
 
-.link:hover {
+.social:hover {
   text-decoration: underline;
 }
+
 .join-text {
     font-family: 'Anton', sans-serif;
     font-size: 1.3rem;
@@ -848,4 +849,5 @@ footer {
   color: #666;
   font-size: 0.95rem;
 }
+
 
